@@ -1,0 +1,16 @@
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\bin\Debug\net8.0-windows\lab1.exe
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\bin\Debug\net8.0-windows\lab1.deps.json
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\bin\Debug\net8.0-windows\lab1.runtimeconfig.json
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\bin\Debug\net8.0-windows\lab1.dll
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\bin\Debug\net8.0-windows\lab1.pdb
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\obj\Debug\net8.0-windows\lab1.MainForm.resources
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\obj\Debug\net8.0-windows\lab1.csproj.GenerateResource.cache
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\obj\Debug\net8.0-windows\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfoInputs.cache
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfo.cs
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\obj\Debug\net8.0-windows\lab1.csproj.CoreCompileInputs.cache
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\obj\Debug\net8.0-windows\lab1.dll
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\obj\Debug\net8.0-windows\refint\lab1.dll
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\obj\Debug\net8.0-windows\lab1.pdb
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\obj\Debug\net8.0-windows\lab1.genruntimeconfig.cache
+D:\Desktop\ВУЗ\3тестирование\6семестр\lab1\lab1\obj\Debug\net8.0-windows\ref\lab1.dll
